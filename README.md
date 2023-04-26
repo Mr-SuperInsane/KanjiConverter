@@ -1,6 +1,8 @@
 # KanjiConverter
 
-You need to run this code in cmd(windows) or terminal(mac/linux) before the code run.  
+このコードは「Google CGI API for Japanese Input」というwebAPIを使用しています。詳しくは[こちら](https://www.google.co.jp/ime/cgiapi.html)。  
+___
+コード内でurllibを使用していますので先にインストール作業を行ってください。
 ```
 pip install urllib
 ```
